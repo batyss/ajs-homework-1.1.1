@@ -1,0 +1,20 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "keywords": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batyss/ajs-homework-1.1.1.git"
+  },
+  "author": "batyss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batyss/ajs-homework-1.1.1/issues"
+  },
+  "homepage": "https://github.com/batyss/ajs-homework-1.1.1#readme"
+}
